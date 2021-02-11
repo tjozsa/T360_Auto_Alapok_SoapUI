@@ -1,0 +1,2 @@
+# T360_Auto_Alapok_SoapUI
+T360_Auto_Alapok_SoapUI
